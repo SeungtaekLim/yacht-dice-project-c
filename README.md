@@ -1,7 +1,7 @@
 야추다이스 C언어 게임 프로젝트입니다.
 
 (1) 1인 또는 2인 선택
-
+ 
 ![image](https://github.com/user-attachments/assets/a7c02b08-7a9e-47d8-b6ad-47a0ab8ecc1a)
 
 (2) 선택후 플레이 화면 
