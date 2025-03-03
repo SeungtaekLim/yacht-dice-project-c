@@ -20,4 +20,4 @@
 
 ![image](https://github.com/user-attachments/assets/b5be77c1-c9d1-4990-be29-5bae304154a9)
 
-점수가 더 높은 쪽이 승리하고 종료 또는 재경기
+점수가 더 높은 쪽이 승리하고 종료 또는 재경기 화면이 나옵니다.
